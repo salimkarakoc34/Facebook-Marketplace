@@ -1,0 +1,477 @@
+Make,Model,Year,Mileage,Price,Location
+Acura,rdx Sport Utility 4D,2007,157K,"$4,200
+","Flushing, NY"
+Ford,mustang Deluxe Coupe 2D,2002,150K,"$2,500
+","Staten Island, NY"
+Honda,cr-v EX-L Sport Utility 4D,2013,67K,"$12,500
+","Brooklyn, NY"
+Audi,q5,2010,142K,"$4,850
+","Newark, NJ"
+BMW,m5 Sedan 4D,2000,165K,"$17,499
+","Briarcliff Manor, NY"
+BMW,325 xi,2004,165K,"$3,999
+","Bloomfield, NJ"
+Honda,cr-v EX-L Sport Utility 4D,2011,75K,"$7,900
+","Kew Gardens, NY"
+Hyundai,santa fe Sport Utility 4D,2014,60K,"$13,000
+","Bronx, NY"
+Hyundai,genesis 3.8 Sedan 4D,2015,73K,"$13,999
+","Brooklyn, NY"
+Acura,mdx Sport Utility 4D,2008,200K,"$3,200
+","Spring Valley, NY"
+Mazda,mazda3 s Sport Hatchback 4D,2008,132K,"$5,300
+","Clifton, NJ"
+BMW,series 5,2018,26K,"$35,000
+","Bergenfield, NJ"
+BMW,335i x drive red interior,2011,85K,"$3,300
+","Jamaica, NY"
+Dodge,charger,2013,190K,"$5,000
+","Flanders, NJ"
+Cadillac,cts 2.0 Performance Collection Sedan 4D,2015,88K,"$12,500
+","North Bergen, NJ"
+Toyota,4runner SR5 Sport Utility 4D,2001,112K,"$6,500
+","Flushing, NY"
+Dodge,ram 1500 Short Bed,2002,177K,"$5,000
+","Jersey City, NJ"
+Ford,f-350 XLT Pickup 4D 8 ft,2011,188K,"$13,900
+","New Brunswick, NJ"
+Mazda,mazda3,2011,143K,"$5,300
+","Perth Amboy, NJ"
+Chevrolet,trailblazer,2007,178K,"$2,700
+","North Arlington, NJ"
+Jeep,grand cherokee Limited Sport Utility 4D,2014,76K,"$12,900
+","Brooklyn, NY"
+Ford,mustang EcoBoost Premium Coupe 2D,2015,112K,"$10,900
+","Elizabeth, NJ"
+Subaru,outback 2.5i Premium Wagon 4D,2010,105K,"$5,600
+","Bronx, NY"
+Acura,tl 3.2 Sedan 4D,2006,140K,"$3,995
+","Mt Vernon, NY"
+Toyota,"rav4 ""Sport"" Sport Utility 4D",2008,189K,"$5,399
+","North Bergen, NJ"
+Infiniti,m35,2007,168K,"$2,350
+","Linden, NJ"
+Honda,accord lx 2017 55.000 mill,2017,55K,"$14,000
+","Kew Gardens, NY"
+Acura,rdx Sport Utility 4D,2015,64K,"$12,900
+","Brooklyn, NY"
+Volkswagen,jetta S Sedan 4D,2011,71K,"$7,400
+","Elmwood Park, NJ"
+Dodge,ram 1500 quad cab st 4x4 v8 4.7l 6.5 ft lenght bed - 1-owner clean carfax no accidents and no rust!!!,2004,142K,"$9,995
+","Keyport, NJ"
+Maserati,ghibli S Q4 Sedan 4D,2015,59K,"$20,500
+","Elizabeth, NJ"
+BMW,328xi,2011,131K,"$5,500
+","East Orange, NJ"
+Audi,a4 Premium Sedan 4D,2013,99K,"$9,899
+","Franklin Square, NY"
+Subaru,forester 2.5i Sport Utility 4D,2015,148K,"$7,400
+","Linden, NJ"
+BMW,x5 3.0i Sport Utility 4D,2002,192K,"$2,800
+","Melville, NY"
+Nissan,murano SL Sport Utility 4D,2010,170K,"$4,500
+","Brooklyn, NY"
+BMW,series 7 M package,2012,130K,"$12,995
+","Hackensack, NJ"
+BMW,335i xdrive Sport,2012,149K,"$7,900
+","Brooklyn, NY"
+Mitsubishi,lancer GT Sedan 4D,2015,140K,"$6,650
+","Old Bridge, NJ"
+Ford,flex Titanium Sport Utility,2011,141K,"$7,000
+","South River, NJ"
+Ford,five hundred SEL Sedan 4D,2007,53K,"$4,700
+","Freehold, NJ"
+Nissan,altima 2.5 S Sedan 4D,2013,79K,"$6,500
+","Jamaica, NY"
+Mazda,cx-9 Sport SUV 4D,2012,83K,"$7,950
+","New York, NY"
+Jeep,grand cherokee Limited Sport Utility 4D,2014,93K,"$13,500
+","Bronx, NY"
+BMW,540i 6 speed maual 540i 6 Speed manual,2002,101K,"$12,900
+","Staten Island, NY"
+Honda,accord Sport Sedan 4D,2017,80K,"$17,000
+","East Elmhurst, NY"
+Chevrolet,sonic LT Sedan 4D,2012,153K,"$4,900
+","Bronx, NY"
+GMC,Sierra,2004,83K,"$20,000
+","Copiague, NY"
+Chevrolet,avalanche LT Sport Utility Pickup 4D 5 1/4 ft,2008,124K,"$8,999
+","Passaic, NJ"
+Ford,fusion SE Hybrid Sedan 4D,2014,134K,"$6,900
+","Brooklyn, NY"
+GMC,acadia SL Sport Utility 4D,2011,154K,"$6,900
+","Jamaica, NY"
+Nissan,armada Platinum Sport Utility 4D,2012,175K,"$6,800
+","Floral Park, NY"
+Nissan,juke SV Sport Utility 4D,2011,170K,"$5,995
+","Teaneck, NJ"
+Volvo,v70 XC AWD SE Wagon 4D,2000,162K,"$2,600
+","Midland Park, NJ"
+Lexus,gs 350,2009,148K,"$9,500
+","Glen Cove, NY"
+Honda,cr-v LX Sport Utility 4D,2012,115K,"$10,850
+","Yonkers, NY"
+Jeep,patriot Limited Sport Utility 4D,2013,138K,"$6,300
+","North Bergen, NJ"
+Land,Rover lr2,2010,170K,"$6,000
+","Totowa, NJ"
+Chevrolet,traverse LT Sport Utility 4D,2018,63K,"$20,000
+","East Elmhurst, NY"
+Nissan,sentra SE-R Sedan 4D,2011,118K,"$2,500
+","Long Beach, NY"
+Honda,civic EX Sedan 4D,2010,84K,"$7,200
+","Paterson, NJ"
+Mazda,mazda3 i Sport Sedan 4D,2012,132K,"$5,800
+","Highland Park, NJ"
+Hyundai,santa fe Limited Sport Utility 4D,2008,175K,"$3,199
+","Fair Lawn, NJ"
+BMW,series 5,2015,92K,"$17,500
+","Bronx, NY"
+Ford,f-350 XLT Pickup 4D 6 3/4 ft,2012,130K,"$22,890
+","Elizabeth, NJ"
+MINI,clubman John Cooper Works Hatchback 3D,2011,107K,"$6,800
+","Teaneck, NJ"
+Volkswagen,jetta SE Sedan 4D,2010,130K,"$4,800
+","Flushing, NY"
+Chrysler,300 Limited Sedan 4D,2012,85K,"$9,000
+","Brooklyn, NY"
+Chevrolet,cruze LTZ Sedan 4D,2014,140K,"$6,000
+","Long Branch, NJ"
+Honda,odyssey LX Minivan 4D,2009,99K,"$6,900
+","Passaic, NJ"
+Honda,civic EX Sedan 4D,2006,129K,"$3,600
+","Union, NJ"
+Infiniti,m35x,2008,101K,"$7,000
+","Jamaica, NY"
+Audi,a5 3.2 Quattro Premium Plus Coupe 2D,2010,191K,"$6,500
+","Brooklyn, NY"
+Subaru,impreza 3.0 R Limited Sedan 4D,2008,115K,"$4,500
+","Brooklyn, NY"
+Honda,civic LX Sedan 4D,1997,90K,"$3,800
+","Port Washington, NY"
+Toyota,corolla LE Sedan 4D,2009,99K,"$5,900
+","New York, NY"
+Dodge,ram 1500 SLT Pickup 4D 8 ft,2003,166K,"$5,000
+","Jamaica, NY"
+Mitsubishi,eclipse GT Coupe 2D,2005,184K,"$3,000
+","Brooklyn, NY"
+Ford,econoline Van 3D,2014,114K,"$15,480
+","Elizabeth, NJ"
+Jeep,grand cherokee Laredo Sport Utility 4D,2018,61K,"$21,000
+","Elizabeth, NJ"
+BMW,series 3,2008,95K,"$17,500
+","Union, NJ"
+Subaru,impreza 2.5i Sport Wagon 4D,2008,87K,"$3,000
+","Bronx, NY"
+Dodge,charger R/T Scat Pack Sedan 4D,2016,180K,"$16,000
+","New York, NY"
+Hyundai,sonata Hybrid,2016,140K,"$8,995
+","Newark, NJ"
+Mercedes-Benz,cls550,2012,61K,"$5,500
+","West Milford, NJ"
+Nissan,altima,2009,158K,"$4,300
+","North Bergen, NJ"
+Subaru,impreza 2.0i Limited Wagon 4D,2019,149K,"$9,999
+","Little Ferry, NJ"
+Nissan,sentra SR Sedan 4D,2010,93K,"$5,300
+","Highland Park, NJ"
+Chrysler,300C Sedan 4D,2014,126K,"$8,500
+","Lodi, NJ"
+Chevrolet,cutaway 3500,2009,149K,"$5,999
+","Clifton, NJ"
+Ford,f-550,2005,48K,"$11,500
+","Staten Island, NY"
+Toyota,highlander Limited Sport Utility 4D,2005,170K,"$5,750
+","Old Bridge, NJ"
+Hyundai,veloster Turbo Coupe 3D,2016,49K,"$12,999
+","Elizabeth, NJ"
+Ford,edge SEL Sport Utility 4D,2008,150K,"$3,995
+","White Plains, NY"
+Honda,cr-v EX-L Sport Utility 4D,2019,70K,"$23,000
+","Passaic, NJ"
+Hyundai,sonata Limited Sedan 4D,2012,114K,"$8,500
+","Linden, NJ"
+BMW,750i xDrive M Sport,2016,101K,"$24,900
+","Staten Island, NY"
+Honda,civic DX Sedan 4D,2010,128K,"$5,000
+","Flushing, NY"
+Toyota,corolla LE Plus Sedan 4D,2016,159K,"$9,600
+","Highland Park, NJ"
+Audi,a5 2.0T Premium Plus Cabriolet 2D,2013,86K,"$15,000
+","Newark, NJ"
+Honda,cr-v LX,2021,39K,"$21,000
+","Kew Gardens, NY"
+Acura,tl 3.2 Sedan 4D,2006,200K,"$3,990
+","East Elmhurst, NY"
+BMW,335xi,2008,99K,"$8,000
+","Hoboken, NJ"
+Honda,accord EX Sedan 4D,2014,103K,"$11,650
+","Elizabeth, NJ"
+Jeep,compass,2007,138K,"$3,000
+","Hightstown, NJ"
+Nissan,maxima SV Sedan 4D,2014,96K,"$7,500
+","Corona, NY"
+Lexus,is250 AWD,2007,125K,"$7,500
+","Staten Island, NY"
+Mercedes-Benz,c300 4 matic Limited,2012,81K,"$13,500
+","West Babylon, NY"
+Honda,cr-v EX Sport Utility 4D,2008,190K,"$6,350
+","Hackensack, NJ"
+MINI,cooper S Hatchback 2D,2008,81K,"$6,800
+","Brooklyn, NY"
+Mazda,mazda3,2008,135K,"$5,250
+","Brooklyn, NY"
+Mazda,mazda3,2009,102K,"$4,500
+","Bronx, NY"
+Nissan,altima 2.5 S Coupe 2D,2008,139K,"$6,200
+","Elizabeth, NJ"
+BMW,series 3,2003,93K,"$4,000
+","Staten Island, NY"
+Mercedes-Benz,s-class S 430 4MATIC Sedan 4D,2006,115K,"$7,000
+","Astoria, NY"
+Mazda,mpv LX Minivan 4D,2006,146K,"$2,800
+","Elizabeth, NJ"
+Honda,accord EX-L Sedan 4D,2010,140K,"$6,200
+","Yonkers, NY"
+Chevrolet,malibu LT Sedan 4D,2018,106K,"$13,999
+","Little Ferry, NJ"
+Chevrolet,colorado Work Truck Pickup 4D 6 ft,2015,73K,"$12,700
+","Mt Vernon, NY"
+Nissan,altima 2.5 S Sedan 4D,2017,150K,"$9,995
+","Hackensack, NJ"
+Ford,explorer,2013,85K,"$10,500
+","New York, NY"
+Chevrolet,traverse LT Sport Utility 4D,2011,97K,"$7,200
+","Jackson Heights, NY"
+Subaru,outback 2.5i Limited Wagon 4D,2014,103K,"$10,995
+","Brooklyn, NY"
+BMW,mx5 awd matic,2011,92K,"$12,999
+","Elizabeth, NJ"
+Ford,escape se,2013,165K,"$5,499
+","East Meadow, NY"
+MINI,cooper S Hatchback 2D,2004,120K,"$4,950
+","Roselle, NJ"
+Jeep,grand cherokee Overland Sport Utility 4D,2012,147K,"$11,200
+","Yonkers, NY"
+Honda,cr-v EX Sport Utility 4D,2013,136K,"$10,999
+","Hawthorne, NJ"
+Nissan,altima 2.5 S Sedan 4D,2011,139K,"$4,700
+","Brooklyn, NY"
+Hyundai,elantra,2008,75K,"$5,900
+","South Ozone Park, NY"
+Volkswagen,passat se 2.0l,2013,121K,"$8,900
+","College Point, NY"
+Honda,civic EX Sedan 4D,1998,200K,"$3,420
+","Paramus, NJ"
+Land,Rover range rover sport HSE Sport Utility 4D,2015,149K,"$18,885
+","Brooklyn, NY"
+Nissan,murano S Sport Utility 4D,2009,155K,"$5,900
+","Uniondale, NY"
+Chevrolet,traverse LT Sport Utility 4D,2015,108K,"$12,000
+","Farmingdale, NY"
+Honda,accord,2008,121K,"$7,990
+","Little Ferry, NJ"
+Kia,sorento EX Sport Utility 4D,2016,112K,"$13,500
+","New York, NY"
+Mercedes-Benz,E350W4,2009,160K,"$6,300
+","Brooklyn, NY"
+Honda,civic LX,2019,59K,"$17,500
+","Little Ferry, NJ"
+Dodge,grand caravan SE Minivan 4D,2009,110K,"$5,500
+","Corona, NY"
+Hyundai,elantra Limited Sedan 4D,2006,100K,"$2,500
+","Linden, NJ"
+Ford,f-150 Xlt súper duty,2001,168K,"$8,500
+","Huntington Station, NY"
+Toyota,camry LE Sedan 4D,2009,114K,"$6,500
+","Jamaica, NY"
+Lexus,es 330,2006,112K,"$4,300
+","Long Branch, NJ"
+Dodge,journey SE Sport Utility 4D,2010,162K,"$4,500
+","Flushing, NY"
+Mercedes-Benz,c-class C 300,2011,175K,"$7,000
+","Elizabeth, NJ"
+Honda,odyssey Touring Minivan 4D,2007,140K,"$5,995
+","Brooklyn, NY"
+Ford,f-150 Lariat Pickup 4D 5 1/2 ft,2010,166K,"$12,600
+","Port Washington, NY"
+Mazda,cx-9 Touring Sport Utility 4D,2011,135K,"$7,900
+","Ridgewood, NY"
+Honda,c r v Touring,2020,65K,"$24,999
+","Huntington Station, NY"
+Honda,accord,2013,95K,"$11,150
+","Brooklyn, NY"
+Honda,pilot EX Sport Utility 4D,2008,200K,"$4,000
+","Brooklyn, NY"
+Honda,accord Sport Sedan 4D,2019,49K,"$19,995
+","North Bergen, NJ"
+Nissan,titan,2007,198K,"$3,800
+","Freehold, NJ"
+Hyundai,accent SE Sedan 4D,2017,114K,"$6,700
+","Elizabeth, NJ"
+Dodge,charger R/T Road & Track Sedan 4D,2015,34K,"$28,000
+","South Ozone Park, NY"
+Ford,f-350 XLT Pickup 4D 6 3/4 ft,2009,168K,"$19,500
+","Fairfield, NJ"
+Ford,focus Titanium Sedan 4D,2013,69K,"$7,000
+","Teaneck, NJ"
+BMW,x3 3.0si Sport Utility 4D,2007,147K,"$5,500
+","Plainfield, NJ"
+Toyota,yaris LE Hatchback Sedan 4D,2015,143K,"$8,300
+","West New York, NJ"
+Audi,q5 2.0T Premium Plus Sport Utility 4D,2014,110K,"$12,900
+","Staten Island, NY"
+BMW,x2 xDrive28i Sport Utility 4D,2018,48K,"$24,500
+","Nanuet, NY"
+Mercedes-Benz,ml350 bluetec,2011,140K,"$10,995
+","Hackensack, NJ"
+Infiniti,g37s,2008,120K,"$16,500
+","Astoria, NY"
+Nissan,altima 2.5 SV Sedan 4D,2013,110K,"$8,000
+","Bronx, NY"
+Audi,s4 Quattro Sedan 4D,2011,112K,"$12,150
+","Brooklyn, NY"
+Toyota,camry SE Sedan 4D,2015,149K,"$11,340
+","Brooklyn, NY"
+Mercedes-Benz,,2003,140K,"$5,100
+","New York, NY"
+Mercedes-Benz,g63 amg,2013,38K,"$80,911
+","Colts Neck, NJ"
+Mercedes-Benz,ml350,2010,120K,"$9,990
+","Little Ferry, NJ"
+Mercedes-Benz,m-class,2011,143K,"$8,600
+","Clifton, NJ"
+Chevrolet,sonic LT Sedan 4D,2013,71K,"$6,500
+","Brooklyn, NY"
+Toyota,sienna L Minivan 4D,2019,155K,"$39,999
+","Astoria, NY"
+BMW,430i xDrive Sport Gran Coupe,2018,93K,"$22,900
+","Staten Island, NY"
+Honda,civic LX Sedan 4D,2008,200K,"$4,995
+","Little Ferry, NJ"
+Honda,accord LX-P Sedan 4D,2009,146K,"$7,895
+","Little Ferry, NJ"
+Mazda,mazda3,2008,157K,"$4,500
+","Brooklyn, NY"
+Kia,sorento LX Sport Utility 4D,2012,133K,"$7,100
+","Union City, NJ"
+Land,Rover range rover evoque Dynamic Sport Utility 4D,2014,92K,"$21,000
+","Newark, NJ"
+Dodge,caliber SXT Sport Wagon 4D,2007,58K,"$6,000
+","Bronx, NY"
+Honda,accord EX-L Sedan 4D,2013,195K,"$8,990
+","Little Ferry, NJ"
+Hyundai,elantra GS Coupe 2D,2013,109K,"$7,990
+","Little Ferry, NJ"
+Volkswagen,passat 2.5L Wolfsburg Edition Sedan 4D,2014,175K,"$7,999
+","Randolph, NJ"
+Nissan,murano SL Sport Utility 4D,2010,82K,"$8,995
+","Montvale, NJ"
+Ford,escape se,2013,165K,"$5,499
+","East Meadow, NY"
+Honda,civic Touring Hatchback Sedan 4D,2019,47K,"$16,500
+","Bronx, NY"
+Nissan,pathfinder,2017,124K,"$14,000
+","Kew Gardens, NY"
+Nissan,altima 2.5 Sedan 4D,2008,149K,"$4,200
+","Paterson, NJ"
+Ford,ecoline e350,2008,130K,"$14,000
+","Woodside, NY"
+Mercedes-Benz,e-class Amg,2017,56K,"$28,950
+","West Caldwell, NJ"
+BMW,x3 sDrive30i Sport Utility 4D,2019,87K,"$24,000
+","Bronx, NY"
+Hyundai,elantra GLS Sedan 4D,2006,92K,"$3,850
+","Green Brook, NJ"
+Honda,accord Sport Sedan 4D,2019,72K,"$17,999
+","Hawthorne, NJ"
+Hyundai,sonata Hybrid Sedan 4D,2012,168K,"$6,900
+","Brooklyn, NY"
+Subaru,outback 2.5i,2014,152K,"$8,649
+","East Meadow, NY"
+Dodge,durango gt plus awd,2021,25K,"$38,995
+","Irvington, NJ"
+Kia,sportage EX Sport Utility 4D,2014,166K,"$9,199
+","Clifton, NJ"
+Honda,pilot EX-L Sport Utility 4D,2005,196K,"$3,500
+","Brooklyn, NY"
+BMW,series 5 XDRIVE,2020,22K,"$39,500
+","Nanuet, NY"
+Chevrolet,cobalt,2009,120K,"$4,000
+","Avenel, NJ"
+Honda,accord,2012,82K,"$6,500
+","New York, NY"
+Toyota,corolla S Sedan 4D,2010,120K,"$7,500
+","Staten Island, NY"
+Toyota,camry SE Sedan 4D,2018,90K,"$18,500
+","Brooklyn, NY"
+Jeep,compass,2020,34K,"$24,000
+","Elizabeth, NJ"
+Mazda,cx-5 Touring Sport Utility 4D,2015,175K,"$7,490
+","Little Ferry, NJ"
+Nissan,altima 2.5 S Sedan 4D,2015,40K,"$11,900
+","Staten Island, NY"
+Ford,fusion SE Sedan 4D,2013,85K,"$10,000
+","New York, NY"
+Toyota,corolla,2009,117K,"$7,990
+","Little Ferry, NJ"
+Chrysler,200 Touring Sedan 4D,2013,123K,"$7,500
+","Flushing, NY"
+Dodge,journey SE Sport Utility 4D,2016,71K,"$9,750
+","Brooklyn, NY"
+Honda,odyssey EX-L Minivan 4D,2012,151K,"$8,999
+","Newark, NJ"
+BMW,m4 base,2019,28K,"$50,945
+","East Meadow, NY"
+Kia,sorento EX Sport Utility 4D,2011,194K,"$5,500
+","Corona, NY"
+Honda,accord lx pzev,2014,125K,"$9,999
+","Brooklyn, NY"
+Honda,accord LX-S Coupe 2D,2015,85K,"$17,000
+","Kearny, NJ"
+Nissan,rogue SL Sport Utility 4D,2008,123K,"$4,395
+","Branchburg, NJ"
+BMW,x5 xDrive35i Sport Utility 4D,2015,132K,"$17,900
+","Staten Island, NY"
+Jeep,grand cherokee Limited,2017,71K,"$23,900
+","New York, NY"
+Acura,ilx 2.4L Sedan 4D,2013,117K,"$13,600
+","Queens Village, NY"
+Ford,"transit wagon t-350 148"" high roof xl sliding rh dr",2016,117K,"$27,900
+","New York, NY"
+Mercedes-Benz,s-class S 550,2010,130K,"$14,000
+","Paterson, NJ"
+Nissan,sentra,2012,128K,"$7,000
+","Pearl River, NY"
+Ford,transit Extended Length High Roof w/Sliding Side Door w/LWB Van 3D,2016,157K,"$20,000
+","Brooklyn, NY"
+Nissan,altima 2.5 SL Sedan 4D,2016,143K,"$11,900
+","Little Ferry, NJ"
+Honda,pilot,2018,101K,"$19,900
+","College Point, NY"
+Chevrolet,equinox LS Sport Utility 4D,2017,139K,"$11,300
+","Bergenfield, NJ"
+Nissan,sentra,2018,110K,"$8,599
+","Jersey City, NJ"
+Hyundai,elantra GS Coupe 2D,2013,160K,"$7,900
+","Little Ferry, NJ"
+Chevrolet,suburban,2017,141K,"$24,800
+","College Point, NY"
+BMW,x5 xDrive35d Sport Utility 4D,2018,142K,"$27,900
+","Staten Island, NY"
+Jeep,cherokee,2015,119K,"$11,990
+","Little Ferry, NJ"
+Chevrolet,silverado 1500 rst,2020,85K,"$37,559
+","East Meadow, NY"
+Ford,escape,2014,79K,"$7,500
+","New York, NY"
+Freightliner,truck,1997,24K,"$30,000
+","Oceanside, NY"
+Ram,1500,2019,53K,"$51,995
+","Newark, NJ"
+Chrysler,pacifica Touring L,2019,83K,"$21,300
+","New York, NY"
+Ford,f-650 extra cab,2000,168K,"$24,750
+","Iselin, NJ"
+Honda,cr-v EX-L Sport Utility 4D,2016,78K,"$17,850
+","Woodcliff Lake, NJ"
